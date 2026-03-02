@@ -158,3 +158,24 @@ footer .nav-link{
 footer .nav-link:hover{
   color: #000 !important;
 }
+
+.btn-save{
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,.08);
+  background: rgba(255,255,255,.7);
+  backdrop-filter: blur(6px);
+  color: var(--purple);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all .25s ease;
+}
+
+.btn-save:hover{
+  background: var(--purple);
+  color: #fff;
+  transform: scale(1.05);
+  box-shadow: 0 1rem 2rem rgba(0,0,0,.15);
+}
