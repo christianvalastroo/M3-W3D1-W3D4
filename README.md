@@ -123,7 +123,6 @@ Il progetto segue un approccio mobile-first utilizzando:
 
 ## 📌 Possibili miglioramenti futuri
 
-- Implementare vero carousel funzionante
 - Filtri dinamici per le card
 - Dark mode
 - Animazioni avanzate
